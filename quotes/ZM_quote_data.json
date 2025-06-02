@@ -1,0 +1,81 @@
+{
+    "ZM": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 2110534402,
+        "symbol": "ZM",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 80.34,
+            "lastSize": 46,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748500035000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 3169462.0,
+            "avg1YearVolume": 2982285.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 3.2064,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-05-21T00:00:00Z",
+            "peRatio": 23.89077
+        },
+        "quote": {
+            "52WeekHigh": 92.8,
+            "52WeekLow": 55.06,
+            "askMICId": "ARCX",
+            "askPrice": 79.95,
+            "askSize": 2,
+            "askTime": 1748549781277,
+            "bidMICId": "EDGX",
+            "bidPrice": 79.0,
+            "bidSize": 2,
+            "bidTime": 1748549630559,
+            "closePrice": 79.67,
+            "highPrice": 80.31,
+            "lastMICId": "ARCX",
+            "lastPrice": 79.74,
+            "lastSize": 1,
+            "lowPrice": 78.99,
+            "mark": 79.94,
+            "markChange": 0.27,
+            "markPercentChange": 0.33889795,
+            "netChange": 0.07,
+            "netPercentChange": 0.08786243,
+            "openPrice": 80.23,
+            "postMarketChange": -0.2,
+            "postMarketPercentChange": -0.25018764,
+            "quoteTime": 1748549781277,
+            "securityStatus": "Normal",
+            "totalVolume": 1906406,
+            "tradeTime": 1748553957210
+        },
+        "reference": {
+            "cusip": "98980L101",
+            "description": "ZOOM COMMUNICATIONS A",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 1590419,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 79.94,
+            "regularMarketLastSize": 219836,
+            "regularMarketNetChange": 0.27,
+            "regularMarketPercentChange": 0.33889795,
+            "regularMarketTradeTime": 1748548800253
+        }
+    }
+}

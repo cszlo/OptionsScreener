@@ -1,0 +1,81 @@
+{
+    "AMZN": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1926977680,
+        "symbol": "AMZN",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 211.02,
+            "lastSize": 39,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748505595000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 41582218.0,
+            "avg1YearVolume": 42020345.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 5.53,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-05-01T00:00:00Z",
+            "peRatio": 33.3543
+        },
+        "quote": {
+            "52WeekHigh": 242.52,
+            "52WeekLow": 151.61,
+            "askMICId": "ARCX",
+            "askPrice": 205.35,
+            "askSize": 3,
+            "askTime": 1748554978828,
+            "bidMICId": "ARCX",
+            "bidPrice": 205.3,
+            "bidSize": 1,
+            "bidTime": 1748554978772,
+            "closePrice": 204.72,
+            "highPrice": 208.81,
+            "lastMICId": "XADF",
+            "lastPrice": 205.3,
+            "lastSize": 3,
+            "lowPrice": 204.23,
+            "mark": 205.35,
+            "markChange": 0.63,
+            "markPercentChange": 0.3077374,
+            "netChange": 0.58,
+            "netPercentChange": 0.28331379,
+            "openPrice": 208.025,
+            "postMarketChange": -0.4,
+            "postMarketPercentChange": -0.19445795,
+            "quoteTime": 1748554978828,
+            "securityStatus": "Normal",
+            "totalVolume": 34628990,
+            "tradeTime": 1748555002331
+        },
+        "reference": {
+            "cusip": "023135106",
+            "description": "AMAZON.COM INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 6768597,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 205.7,
+            "regularMarketLastSize": 3289790,
+            "regularMarketNetChange": 0.98,
+            "regularMarketPercentChange": 0.47870262,
+            "regularMarketTradeTime": 1748548800395
+        }
+    }
+}

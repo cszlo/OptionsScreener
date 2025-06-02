@@ -1,0 +1,81 @@
+{
+    "TSLA": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1948561409,
+        "symbol": "TSLA",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 368.09,
+            "lastSize": 44,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748505589000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 109262299.0,
+            "avg1YearVolume": 97782140.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 2.04,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-04-22T00:00:00Z",
+            "peRatio": 204.1984
+        },
+        "quote": {
+            "52WeekHigh": 488.5399,
+            "52WeekLow": 167.41,
+            "askMICId": "ARCX",
+            "askPrice": 356.32,
+            "askSize": 5,
+            "askTime": 1748555000852,
+            "bidMICId": "MEMX",
+            "bidPrice": 356.22,
+            "bidSize": 2,
+            "bidTime": 1748554995870,
+            "closePrice": 356.9,
+            "highPrice": 367.71,
+            "lastMICId": "XADF",
+            "lastPrice": 356.22,
+            "lastSize": 300,
+            "lowPrice": 356.0,
+            "mark": 356.32,
+            "markChange": -0.58,
+            "markPercentChange": -0.16251051,
+            "netChange": -0.68,
+            "netPercentChange": -0.19052956,
+            "openPrice": 365.29,
+            "postMarketChange": -2.21,
+            "postMarketPercentChange": -0.61657785,
+            "quoteTime": 1748555000852,
+            "securityStatus": "Normal",
+            "totalVolume": 87789687,
+            "tradeTime": 1748555003490
+        },
+        "reference": {
+            "cusip": "88160R101",
+            "description": "TESLA INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 3810063,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 358.43,
+            "regularMarketLastSize": 1615392,
+            "regularMarketNetChange": 1.53,
+            "regularMarketPercentChange": 0.42869151,
+            "regularMarketTradeTime": 1748548800017
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "ALGN": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 519664706,
+        "symbol": "ALGN",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 176.07,
+            "lastSize": 5,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748329214000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 712759.0,
+            "avg1YearVolume": 920126.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 5.62,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-04-30T00:00:00Z",
+            "peRatio": 32.75061
+        },
+        "quote": {
+            "52WeekHigh": 271.59,
+            "52WeekLow": 141.74,
+            "askMICId": "ARCX",
+            "askPrice": 183.56,
+            "askSize": 1,
+            "askTime": 1748554645042,
+            "bidMICId": "EDGX",
+            "bidPrice": 175.0,
+            "bidSize": 1,
+            "bidTime": 1748554645042,
+            "closePrice": 180.11,
+            "highPrice": 183.31,
+            "lastMICId": "XNAS",
+            "lastPrice": 183.06,
+            "lastSize": 1,
+            "lowPrice": 180.68,
+            "mark": 183.05,
+            "markChange": 2.94,
+            "markPercentChange": 1.63233579,
+            "netChange": 2.95,
+            "netPercentChange": 1.63788796,
+            "openPrice": 181.12,
+            "postMarketChange": 0.01,
+            "postMarketPercentChange": 0.00546299,
+            "quoteTime": 1748554645042,
+            "securityStatus": "Normal",
+            "totalVolume": 1282041,
+            "tradeTime": 1748551313944
+        },
+        "reference": {
+            "cusip": "016255101",
+            "description": "ALIGN TECHNOLOGY INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 210656,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 183.05,
+            "regularMarketLastSize": 120017,
+            "regularMarketNetChange": 2.94,
+            "regularMarketPercentChange": 1.63233579,
+            "regularMarketTradeTime": 1748548800197
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "DLTR": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1707476131,
+        "symbol": "DLTR",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 92.0,
+            "lastSize": 20,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748505337000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 3334495.0,
+            "avg1YearVolume": 4092044.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 4.83,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-03-26T00:00:00Z",
+            "peRatio": 18.49689
+        },
+        "quote": {
+            "52WeekHigh": 121.92,
+            "52WeekLow": 60.49,
+            "askMICId": "XNAS",
+            "askPrice": 91.2,
+            "askSize": 2,
+            "askTime": 1748548920000,
+            "bidMICId": "MEMX",
+            "bidPrice": 89.25,
+            "bidSize": 1,
+            "bidTime": 1748552954572,
+            "closePrice": 89.34,
+            "highPrice": 90.7,
+            "lastMICId": "EDGX",
+            "lastPrice": 90.5,
+            "lastSize": 2,
+            "lowPrice": 88.87,
+            "mark": 90.58,
+            "markChange": 1.24,
+            "markPercentChange": 1.38795612,
+            "netChange": 1.16,
+            "netPercentChange": 1.29841057,
+            "openPrice": 90.0,
+            "postMarketChange": -0.08,
+            "postMarketPercentChange": -0.08831972,
+            "quoteTime": 1748552954572,
+            "securityStatus": "Normal",
+            "totalVolume": 2902368,
+            "tradeTime": 1748554149437
+        },
+        "reference": {
+            "cusip": "256746108",
+            "description": "DOLLAR TREE INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 635306,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 90.58,
+            "regularMarketLastSize": 396879,
+            "regularMarketNetChange": 1.24,
+            "regularMarketPercentChange": 1.38795612,
+            "regularMarketTradeTime": 1748548800385
+        }
+    }
+}

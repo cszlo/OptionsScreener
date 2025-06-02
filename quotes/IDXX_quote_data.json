@@ -1,0 +1,81 @@
+{
+    "IDXX": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 620091502,
+        "symbol": "IDXX",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 501.57,
+            "lastSize": 2,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748318914000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 543983.0,
+            "avg1YearVolume": 651312.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 10.67,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-05-01T00:00:00Z",
+            "peRatio": 47.55701
+        },
+        "quote": {
+            "52WeekHigh": 530.6,
+            "52WeekLow": 356.14,
+            "askMICId": "ARCX",
+            "askPrice": 516.39,
+            "askSize": 1,
+            "askTime": 1748554193024,
+            "bidMICId": "ARCX",
+            "bidPrice": 513.66,
+            "bidSize": 1,
+            "bidTime": 1748554193024,
+            "closePrice": 514.33,
+            "highPrice": 520.0,
+            "lastMICId": "XADF",
+            "lastPrice": 514.1,
+            "lastSize": 1,
+            "lowPrice": 510.64,
+            "mark": 515.55,
+            "markChange": 1.22,
+            "markPercentChange": 0.2372018,
+            "netChange": -0.23,
+            "netPercentChange": -0.04471837,
+            "openPrice": 518.07,
+            "postMarketChange": -1.45,
+            "postMarketPercentChange": -0.28125303,
+            "quoteTime": 1748554193024,
+            "securityStatus": "Normal",
+            "totalVolume": 362412,
+            "tradeTime": 1748554627550
+        },
+        "reference": {
+            "cusip": "45168D104",
+            "description": "IDEXX LABS INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 104999,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 515.55,
+            "regularMarketLastSize": 56531,
+            "regularMarketNetChange": 1.22,
+            "regularMarketPercentChange": 0.2372018,
+            "regularMarketTradeTime": 1748548800286
+        }
+    }
+}

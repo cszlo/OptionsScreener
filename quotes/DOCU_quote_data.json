@@ -1,0 +1,81 @@
+{
+    "DOCU": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1993964646,
+        "symbol": "DOCU",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 87.0,
+            "lastSize": 2,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748494939000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 1742605.0,
+            "avg1YearVolume": 2768449.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 5.08,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-03-13T00:00:00Z",
+            "peRatio": 16.89567
+        },
+        "quote": {
+            "52WeekHigh": 107.8599,
+            "52WeekLow": 48.7,
+            "askMICId": "ARCX",
+            "askPrice": 87.29,
+            "askSize": 1,
+            "askTime": 1748555035171,
+            "bidMICId": "ARCX",
+            "bidPrice": 85.42,
+            "bidSize": 1,
+            "bidTime": 1748555035171,
+            "closePrice": 85.83,
+            "highPrice": 86.37,
+            "lastMICId": "XADF",
+            "lastPrice": 87.0,
+            "lastSize": 12,
+            "lowPrice": 84.3601,
+            "mark": 85.71,
+            "markChange": -0.12,
+            "markPercentChange": -0.13981125,
+            "netChange": 1.17,
+            "netPercentChange": 1.36315973,
+            "openPrice": 86.14,
+            "postMarketChange": 1.29,
+            "postMarketPercentChange": 1.50507525,
+            "quoteTime": 1748555035171,
+            "securityStatus": "Normal",
+            "totalVolume": 1714555,
+            "tradeTime": 1748554300053
+        },
+        "reference": {
+            "cusip": "256163106",
+            "description": "DOCUSIGN INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 972065,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 85.71,
+            "regularMarketLastSize": 163326,
+            "regularMarketNetChange": -0.12,
+            "regularMarketPercentChange": -0.13981125,
+            "regularMarketTradeTime": 1748548800081
+        }
+    }
+}

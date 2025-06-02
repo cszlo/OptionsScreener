@@ -1,0 +1,81 @@
+{
+    "ADBE": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1670511108,
+        "symbol": "ADBE",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 416.0,
+            "lastSize": 2,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748503082000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 2784337.0,
+            "avg1YearVolume": 3449723.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 12.36,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-03-12T00:00:00Z",
+            "peRatio": 27.18301
+        },
+        "quote": {
+            "52WeekHigh": 587.75,
+            "52WeekLow": 332.01,
+            "askMICId": "ARCX",
+            "askPrice": 414.18,
+            "askSize": 1,
+            "askTime": 1748554606063,
+            "bidMICId": "ARCX",
+            "bidPrice": 411.5,
+            "bidSize": 1,
+            "bidTime": 1748554606063,
+            "closePrice": 412.23,
+            "highPrice": 415.4203,
+            "lastMICId": "XADF",
+            "lastPrice": 412.84,
+            "lastSize": 1,
+            "lowPrice": 410.47,
+            "mark": 413.36,
+            "markChange": 1.13,
+            "markPercentChange": 0.27411882,
+            "netChange": 0.61,
+            "netPercentChange": 0.14797564,
+            "openPrice": 414.0,
+            "postMarketChange": -0.52,
+            "postMarketPercentChange": -0.12579834,
+            "quoteTime": 1748554606063,
+            "securityStatus": "Normal",
+            "totalVolume": 1780228,
+            "tradeTime": 1748554981619
+        },
+        "reference": {
+            "cusip": "00724F101",
+            "description": "ADOBE INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 1076254,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 413.36,
+            "regularMarketLastSize": 311228,
+            "regularMarketNetChange": 1.13,
+            "regularMarketPercentChange": 0.27411882,
+            "regularMarketTradeTime": 1748548800677
+        }
+    }
+}

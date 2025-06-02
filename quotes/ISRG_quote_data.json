@@ -1,0 +1,81 @@
+{
+    "ISRG": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 265198513,
+        "symbol": "ISRG",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 561.62,
+            "lastSize": 3,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748504100000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 1383264.0,
+            "avg1YearVolume": 1645473.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 6.42,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-04-22T00:00:00Z",
+            "peRatio": 80.87153
+        },
+        "quote": {
+            "52WeekHigh": 616.0,
+            "52WeekLow": 396.151,
+            "askMICId": "EDGX",
+            "askPrice": 559.3,
+            "askSize": 3,
+            "askTime": 1748553409127,
+            "bidMICId": "ARCX",
+            "bidPrice": 555.4,
+            "bidSize": 1,
+            "bidTime": 1748552407953,
+            "closePrice": 552.41,
+            "highPrice": 559.8,
+            "lastMICId": "XADF",
+            "lastPrice": 555.75,
+            "lastSize": 901,
+            "lowPrice": 551.4,
+            "mark": 555.75,
+            "markChange": 3.34,
+            "markPercentChange": 0.60462338,
+            "netChange": 3.34,
+            "netPercentChange": 0.60462338,
+            "openPrice": 556.47,
+            "postMarketChange": 0.0,
+            "postMarketPercentChange": 0.0,
+            "quoteTime": 1748553409127,
+            "securityStatus": "Normal",
+            "totalVolume": 1139141,
+            "tradeTime": 1748554155511
+        },
+        "reference": {
+            "cusip": "46120E602",
+            "description": "INTUITIVE SURGICAL I",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 772801,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 555.75,
+            "regularMarketLastSize": 186194,
+            "regularMarketNetChange": 3.34,
+            "regularMarketPercentChange": 0.60462338,
+            "regularMarketTradeTime": 1748548800043
+        }
+    }
+}

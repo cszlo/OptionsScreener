@@ -1,0 +1,81 @@
+{
+    "SNPS": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1231387437,
+        "symbol": "SNPS",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 483.0,
+            "lastSize": 4,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748504652000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 863307.0,
+            "avg1YearVolume": 1121510.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 9.25,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-02-26T00:00:00Z",
+            "peRatio": 55.56323
+        },
+        "quote": {
+            "52WeekHigh": 624.8015,
+            "52WeekLow": 365.74,
+            "askMICId": "XNAS",
+            "askPrice": 455.5,
+            "askSize": 2,
+            "askTime": 1748553297580,
+            "bidMICId": "EDGX",
+            "bidPrice": 453.05,
+            "bidSize": 1,
+            "bidTime": 1748550639073,
+            "closePrice": 462.43,
+            "highPrice": 487.99,
+            "lastMICId": "BATS",
+            "lastPrice": 453.74,
+            "lastSize": 1,
+            "lowPrice": 437.69,
+            "mark": 454.99,
+            "markChange": -7.44,
+            "markPercentChange": -1.60889216,
+            "netChange": -8.69,
+            "netPercentChange": -1.87920334,
+            "openPrice": 473.0,
+            "postMarketChange": -1.25,
+            "postMarketPercentChange": -0.27473131,
+            "quoteTime": 1748553297580,
+            "securityStatus": "Normal",
+            "totalVolume": 4314118,
+            "tradeTime": 1748554697722
+        },
+        "reference": {
+            "cusip": "871607107",
+            "description": "SYNOPSYS INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 376846,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 454.99,
+            "regularMarketLastSize": 179993,
+            "regularMarketNetChange": -7.44,
+            "regularMarketPercentChange": -1.60889216,
+            "regularMarketTradeTime": 1748548800282
+        }
+    }
+}

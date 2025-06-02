@@ -1,0 +1,81 @@
+{
+    "MRNA": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1639967544,
+        "symbol": "MRNA",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 26.44,
+            "lastSize": 12,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748505449000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 15623477.0,
+            "avg1YearVolume": 8041789.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": -9.28,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-05-01T00:00:00Z",
+            "peRatio": -2.98532
+        },
+        "quote": {
+            "52WeekHigh": 164.725,
+            "52WeekLow": 23.15,
+            "askMICId": "EDGX",
+            "askPrice": 26.98,
+            "askSize": 2,
+            "askTime": 1748554927168,
+            "bidMICId": "EDGX",
+            "bidPrice": 26.9,
+            "bidSize": 1,
+            "bidTime": 1748554927168,
+            "closePrice": 26.05,
+            "highPrice": 27.15,
+            "lastMICId": "XADF",
+            "lastPrice": 26.92,
+            "lastSize": 20,
+            "lowPrice": 25.76,
+            "mark": 26.93,
+            "markChange": 0.88,
+            "markPercentChange": 3.378119,
+            "netChange": 0.87,
+            "netPercentChange": 3.33973129,
+            "openPrice": 26.285,
+            "postMarketChange": -0.01,
+            "postMarketPercentChange": -0.03713331,
+            "quoteTime": 1748554927168,
+            "securityStatus": "Normal",
+            "totalVolume": 10095484,
+            "tradeTime": 1748555014804
+        },
+        "reference": {
+            "cusip": "60770K107",
+            "description": "MODERNA INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 232547,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 26.93,
+            "regularMarketLastSize": 486333,
+            "regularMarketNetChange": 0.88,
+            "regularMarketPercentChange": 3.378119,
+            "regularMarketTradeTime": 1748548800268
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "ALHC": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 71311719,
+        "symbol": "ALHC",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 16.02,
+            "lastSize": 8,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748499801000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 3336603.0,
+            "avg1YearVolume": 1949668.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": -0.67107,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-05-01T00:00:00Z",
+            "peRatio": -31.87479
+        },
+        "quote": {
+            "52WeekHigh": 21.06,
+            "52WeekLow": 6.92,
+            "askMICId": "ARCX",
+            "askPrice": 15.77,
+            "askSize": 1,
+            "askTime": 1748554693675,
+            "bidMICId": "XNAS",
+            "bidPrice": 14.45,
+            "bidSize": 1,
+            "bidTime": 1748554693675,
+            "closePrice": 15.05,
+            "highPrice": 15.104,
+            "lastMICId": "XADF",
+            "lastPrice": 14.9,
+            "lastSize": 22833,
+            "lowPrice": 14.45,
+            "mark": 14.9,
+            "markChange": -0.15,
+            "markPercentChange": -0.99667774,
+            "netChange": -0.15,
+            "netPercentChange": -0.99667774,
+            "openPrice": 15.04,
+            "postMarketChange": 0.0,
+            "postMarketPercentChange": 0.0,
+            "quoteTime": 1748554693675,
+            "securityStatus": "Normal",
+            "totalVolume": 4814173,
+            "tradeTime": 1748550448626
+        },
+        "reference": {
+            "cusip": "01625V104",
+            "description": "ALIGNMENT HEALTHCARE",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 575478,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 14.9,
+            "regularMarketLastSize": 189334,
+            "regularMarketNetChange": -0.15,
+            "regularMarketPercentChange": -0.99667774,
+            "regularMarketTradeTime": 1748548800307
+        }
+    }
+}

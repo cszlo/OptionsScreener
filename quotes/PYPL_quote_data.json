@@ -1,0 +1,81 @@
+{
+    "PYPL": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 29873150,
+        "symbol": "PYPL",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 72.52,
+            "lastSize": 100,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748503807000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 7947254.0,
+            "avg1YearVolume": 11215407.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 3.99,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-04-29T00:00:00Z",
+            "peRatio": 16.04607
+        },
+        "quote": {
+            "52WeekHigh": 93.66,
+            "52WeekLow": 55.85,
+            "askMICId": "ARCX",
+            "askPrice": 71.18,
+            "askSize": 1,
+            "askTime": 1748552540122,
+            "bidMICId": "MEMX",
+            "bidPrice": 70.47,
+            "bidSize": 3,
+            "bidTime": 1748554028382,
+            "closePrice": 71.44,
+            "highPrice": 72.4492,
+            "lastMICId": "ARCX",
+            "lastPrice": 70.89,
+            "lastSize": 1,
+            "lowPrice": 70.25,
+            "mark": 70.93,
+            "markChange": -0.51,
+            "markPercentChange": -0.71388578,
+            "netChange": -0.55,
+            "netPercentChange": -0.76987682,
+            "openPrice": 72.16,
+            "postMarketChange": -0.04,
+            "postMarketPercentChange": -0.05639363,
+            "quoteTime": 1748554028382,
+            "securityStatus": "Normal",
+            "totalVolume": 7057869,
+            "tradeTime": 1748554985638
+        },
+        "reference": {
+            "cusip": "70450Y103",
+            "description": "PAYPAL HLDGS INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 2685726,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 70.93,
+            "regularMarketLastSize": 677914,
+            "regularMarketNetChange": -0.51,
+            "regularMarketPercentChange": -0.71388578,
+            "regularMarketTradeTime": 1748548800392
+        }
+    }
+}

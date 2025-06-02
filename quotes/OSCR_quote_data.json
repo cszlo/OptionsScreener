@@ -1,0 +1,81 @@
+{
+    "OSCR": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 1800031302,
+        "symbol": "OSCR",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 14.4,
+            "lastSize": 20,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748505394000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 8723727.0,
+            "avg1YearVolume": 4354424.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 0.1,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-05-07T00:00:00Z",
+            "peRatio": 30.0734
+        },
+        "quote": {
+            "52WeekHigh": 23.79,
+            "52WeekLow": 11.2,
+            "askMICId": "EDGX",
+            "askPrice": 13.86,
+            "askSize": 9,
+            "askTime": 1748555024554,
+            "bidMICId": "ARCX",
+            "bidPrice": 13.85,
+            "bidSize": 2,
+            "bidTime": 1748555009553,
+            "closePrice": 13.89,
+            "highPrice": 14.1899,
+            "lastMICId": "EDGX",
+            "lastPrice": 13.85,
+            "lastSize": 15,
+            "lowPrice": 13.77,
+            "mark": 13.85,
+            "markChange": -0.04,
+            "markPercentChange": -0.28797696,
+            "netChange": -0.04,
+            "netPercentChange": -0.28797696,
+            "openPrice": 14.18,
+            "postMarketChange": 0.05,
+            "postMarketPercentChange": 0.36231884,
+            "quoteTime": 1748555024554,
+            "securityStatus": "Normal",
+            "totalVolume": 6339390,
+            "tradeTime": 1748555009553
+        },
+        "reference": {
+            "cusip": "687793109",
+            "description": "OSCAR HEALTH INC A",
+            "exchange": "N",
+            "exchangeName": "NYSE",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 6855188,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 13.8,
+            "regularMarketLastSize": 302916,
+            "regularMarketNetChange": -0.09,
+            "regularMarketPercentChange": -0.64794816,
+            "regularMarketTradeTime": 1748549400002
+        }
+    }
+}

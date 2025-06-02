@@ -1,0 +1,81 @@
+{
+    "BIIB": {
+        "assetMainType": "EQUITY",
+        "assetSubType": "COE",
+        "quoteType": "NBBO",
+        "realtime": true,
+        "ssid": 495453872,
+        "symbol": "BIIB",
+        "extended": {
+            "askPrice": 0.0,
+            "askSize": 0,
+            "bidPrice": 0.0,
+            "bidSize": 0,
+            "lastPrice": 129.49,
+            "lastSize": 47,
+            "mark": 0.0,
+            "quoteTime": 1748505600000,
+            "totalVolume": 0,
+            "tradeTime": 1748504328000
+        },
+        "fundamental": {
+            "avg10DaysVolume": 1598527.0,
+            "avg1YearVolume": 1398843.0,
+            "divAmount": 0.0,
+            "divFreq": 0,
+            "divPayAmount": 0.0,
+            "divYield": 0.0,
+            "eps": 11.18,
+            "fundLeverageFactor": 0.0,
+            "lastEarningsDate": "2025-05-01T00:00:00Z",
+            "peRatio": 12.60709
+        },
+        "quote": {
+            "52WeekHigh": 238.0,
+            "52WeekLow": 110.035,
+            "askMICId": "EDGX",
+            "askPrice": 133.77,
+            "askSize": 1,
+            "askTime": 1748554202158,
+            "bidMICId": "EDGX",
+            "bidPrice": 131.15,
+            "bidSize": 1,
+            "bidTime": 1748552536606,
+            "closePrice": 127.53,
+            "highPrice": 132.94,
+            "lastMICId": "ARCX",
+            "lastPrice": 132.66,
+            "lastSize": 2,
+            "lowPrice": 127.53,
+            "mark": 132.75,
+            "markChange": 5.22,
+            "markPercentChange": 4.09315455,
+            "netChange": 5.13,
+            "netPercentChange": 4.02258292,
+            "openPrice": 128.1,
+            "postMarketChange": -0.09,
+            "postMarketPercentChange": -0.06779661,
+            "quoteTime": 1748554202158,
+            "securityStatus": "Normal",
+            "totalVolume": 1956921,
+            "tradeTime": 1748553836539
+        },
+        "reference": {
+            "cusip": "09062X103",
+            "description": "BIOGEN INC",
+            "exchange": "Q",
+            "exchangeName": "NASDAQ",
+            "isHardToBorrow": false,
+            "isShortable": true,
+            "htbQuantity": 696600,
+            "htbRate": 0.0
+        },
+        "regular": {
+            "regularMarketLastPrice": 132.75,
+            "regularMarketLastSize": 254681,
+            "regularMarketNetChange": 5.22,
+            "regularMarketPercentChange": 4.09315455,
+            "regularMarketTradeTime": 1748548800672
+        }
+    }
+}

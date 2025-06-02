@@ -1,0 +1,69 @@
+Potential CSP trade for MSFT:		50SMA: 408.53		Resistance: 460.69		Support: 450.18
+		MSFT $435.0 PUT @ $4.15	| Delta: -0.21	| Volatility: 21.73	|OI: 2000	| Exp: 2025-07-18	| Mark: $459.55
+		MSFT $450.0 PUT @ $1.47	| Delta: -0.21	| Volatility: 20.14	|OI: 1616	| Exp: 2025-06-06	| Mark: $459.55
+		MSFT $445.0 PUT @ $3.0	| Delta: -0.24	| Volatility: 20.04	|OI: 4112	| Exp: 2025-06-20	| Mark: $459.55
+Potential CSP trade for AMZN:		50SMA: 191.89		Resistance: 206.16		Support: 200.99
+		AMZN $185.0 PUT @ $6.4	| Delta: -0.25	| Volatility: 35.12	|OI: 8322	| Exp: 2025-09-19	| Mark: $204.6
+		AMZN $180.0 PUT @ $9.4	| Delta: -0.25	| Volatility: 34.88	|OI: 22373	| Exp: 2026-01-16	| Mark: $204.6
+		AMZN $190.0 PUT @ $3.4	| Delta: -0.23	| Volatility: 32.27	|OI: 12363	| Exp: 2025-07-18	| Mark: $204.6
+		AMZN $195.0 PUT @ $1.42	| Delta: -0.20	| Volatility: 31.57	|OI: 3347	| Exp: 2025-06-13	| Mark: $204.6
+		AMZN $195.0 PUT @ $2.13	| Delta: -0.23	| Volatility: 31.03	|OI: 17285	| Exp: 2025-06-20	| Mark: $204.6
+Potential CSP trade for GOOGL:		50SMA: 159.98		Resistance: 172.90		Support: 163.98
+		GOOGL $150.0 PUT @ $6.2	| Delta: -0.23	| Volatility: 35.22	|OI: 4010	| Exp: 2025-11-21	| Mark: $171.095
+		GOOGL $145.0 PUT @ $6.1	| Delta: -0.20	| Volatility: 34.64	|OI: 9240	| Exp: 2026-01-16	| Mark: $171.095
+		GOOGL $150.0 PUT @ $4.8	| Delta: -0.21	| Volatility: 34.37	|OI: 4292	| Exp: 2025-10-17	| Mark: $171.095
+		GOOGL $165.0 PUT @ $1.48	| Delta: -0.24	| Volatility: 30.15	|OI: 786	| Exp: 2025-06-13	| Mark: $171.095
+		GOOGL $162.5 PUT @ $1.5	| Delta: -0.21	| Volatility: 30.03	|OI: 2711	| Exp: 2025-06-20	| Mark: $171.095
+		GOOGL $160.0 PUT @ $2.66	| Delta: -0.23	| Volatility: 29.98	|OI: 9429	| Exp: 2025-07-18	| Mark: $171.095
+Potential CSP trade for META:		50SMA: 582.71		Resistance: 647.49		Support: 627.06
+		META $627.5 PUT @ $3.4	| Delta: -0.22	| Volatility: 30.02	|OI: 334	| Exp: 2025-06-06	| Mark: $646.44
+		META $630.0 PUT @ $3.9	| Delta: -0.25	| Volatility: 29.60	|OI: 637	| Exp: 2025-06-06	| Mark: $646.44
+Potential CSP trade for TSLA:		50SMA: 286.41		Resistance: 362.89		Support: 334.62
+		TSLA $300.0 PUT @ $11.6	| Delta: -0.23	| Volatility: 63.02	|OI: 11938	| Exp: 2025-07-18	| Mark: $345.56
+		TSLA $305.0 PUT @ $13.0	| Delta: -0.25	| Volatility: 62.64	|OI: 1726	| Exp: 2025-07-18	| Mark: $345.56
+		TSLA $280.0 PUT @ $30.5	| Delta: -0.23	| Volatility: 62.09	|OI: 6349	| Exp: 2026-01-16	| Mark: $345.56
+		TSLA $305.0 PUT @ $7.1	| Delta: -0.20	| Volatility: 61.63	|OI: 383	| Exp: 2025-06-27	| Mark: $345.56
+		TSLA $310.0 PUT @ $8.35	| Delta: -0.23	| Volatility: 61.26	|OI: 543	| Exp: 2025-06-27	| Mark: $345.56
+		TSLA $325.0 PUT @ $3.4	| Delta: -0.21	| Volatility: 58.56	|OI: 2664	| Exp: 2025-06-06	| Mark: $345.56
+		TSLA $327.5 PUT @ $4.0	| Delta: -0.23	| Volatility: 58.44	|OI: 947	| Exp: 2025-06-06	| Mark: $345.56
+Potential CSP trade for NVDA:		50SMA: 116.20		Resistance: 139.19		Support: 131.29
+		NVDA $105.0 PUT @ $10.95	| Delta: -0.21	| Volatility: 46.88	|OI: 6449	| Exp: 2026-09-18	| Mark: $134.53
+		NVDA $110.0 PUT @ $8.8	| Delta: -0.22	| Volatility: 46.52	|OI: 35107	| Exp: 2026-03-20	| Mark: $134.53
+		NVDA $115.0 PUT @ $7.05	| Delta: -0.24	| Volatility: 46.23	|OI: 13376	| Exp: 2025-11-21	| Mark: $134.53
+		NVDA $120.0 PUT @ $3.9	| Delta: -0.23	| Volatility: 42.97	|OI: 30190	| Exp: 2025-08-15	| Mark: $134.53
+		NVDA $126.0 PUT @ $2.31	| Delta: -0.24	| Volatility: 42.25	|OI: 414	| Exp: 2025-06-27	| Mark: $134.53
+		NVDA $127.0 PUT @ $1.35	| Delta: -0.21	| Volatility: 41.29	|OI: 2545	| Exp: 2025-06-13	| Mark: $134.53
+		NVDA $128.0 PUT @ $1.57	| Delta: -0.24	| Volatility: 40.93	|OI: 932	| Exp: 2025-06-13	| Mark: $134.53
+		NVDA $129.0 PUT @ $0.89	| Delta: -0.20	| Volatility: 40.77	|OI: 3880	| Exp: 2025-06-06	| Mark: $134.53
+		NVDA $126.0 PUT @ $1.73	| Delta: -0.22	| Volatility: 40.59	|OI: 7058	| Exp: 2025-06-20	| Mark: $134.53
+		NVDA $127.0 PUT @ $1.96	| Delta: -0.24	| Volatility: 40.27	|OI: 5423	| Exp: 2025-06-20	| Mark: $134.53
+		NVDA $130.0 PUT @ $1.1	| Delta: -0.24	| Volatility: 40.25	|OI: 18656	| Exp: 2025-06-06	| Mark: $134.53
+Potential CSP trade for CSCO:		50SMA: 59.47		Resistance: 63.92		Support: 63.04
+		CSCO $57.5 PUT @ $1.21	| Delta: -0.23	| Volatility: 26.59	|OI: 7218	| Exp: 2025-09-19	| Mark: $63.025
+		CSCO $55.0 PUT @ $1.59	| Delta: -0.21	| Volatility: 26.21	|OI: 5732	| Exp: 2026-01-16	| Mark: $63.025
+Potential CSP trade for LRCX:		50SMA: 74.11		Resistance: 84.43		Support: 80.79
+		LRCX $75.0 PUT @ $0.94	| Delta: -0.21	| Volatility: 41.16	|OI: 3002	| Exp: 2025-06-20	| Mark: $80.575
+Potential CSP trade for DLTR:		50SMA: 79.68		Resistance: 90.62		Support: 86.51
+		DLTR $80.0 PUT @ $2.09	| Delta: -0.21	| Volatility: 49.31	|OI: 10991	| Exp: 2025-07-18	| Mark: $89.75
+Potential CSP trade for JNJ:		50SMA: 154.02		Resistance: 155.21		Support: 150.04
+		JNJ $150.0 PUT @ $0.81	| Delta: -0.21	| Volatility: 19.31	|OI: 10578	| Exp: 2025-06-20	| Mark: $155.505
+Potential CSP trade for WMT:		50SMA: 92.97		Resistance: 98.72		Support: 95.93
+		WMT $92.5 PUT @ $1.09	| Delta: -0.22	| Volatility: 25.86	|OI: 2001	| Exp: 2025-07-18	| Mark: $98.42500000000001
+		WMT $95.0 PUT @ $0.75	| Delta: -0.23	| Volatility: 24.03	|OI: 6364	| Exp: 2025-06-20	| Mark: $98.42500000000001
+Potential CSP trade for JPM:		50SMA: 246.29		Resistance: 267.56		Support: 260.67
+		JPM $235.0 PUT @ $4.7	| Delta: -0.20	| Volatility: 29.59	|OI: 2250	| Exp: 2025-09-19	| Mark: $263.65
+		JPM $255.0 PUT @ $1.14	| Delta: -0.20	| Volatility: 22.71	|OI: 222	| Exp: 2025-06-13	| Mark: $263.65
+Potential CSP trade for DIS:		50SMA: 97.73		Resistance: 113.42		Support: 109.72
+		DIS $95.0 PUT @ $4.0	| Delta: -0.20	| Volatility: 31.39	|OI: 1626	| Exp: 2026-03-20	| Mark: $112.92
+		DIS $100.0 PUT @ $4.25	| Delta: -0.24	| Volatility: 30.14	|OI: 10397	| Exp: 2026-01-16	| Mark: $112.92
+Potential CSP trade for VZ:		50SMA: 43.40		Resistance: 44.31		Support: 43.13
+		VZ $40.0 PUT @ $0.78	| Delta: -0.22	| Volatility: 24.00	|OI: 14706	| Exp: 2025-09-19	| Mark: $43.97
+Potential CSP trade for PFE:		50SMA: 23.10		Resistance: 23.61		Support: 22.83
+		PFE $20.0 PUT @ $0.6	| Delta: -0.20	| Volatility: 30.96	|OI: 8776	| Exp: 2025-11-21	| Mark: $23.53
+		PFE $20.0 PUT @ $1.01	| Delta: -0.24	| Volatility: 30.06	|OI: 3958	| Exp: 2026-03-20	| Mark: $23.53
+		PFE $21.0 PUT @ $0.54	| Delta: -0.23	| Volatility: 30.02	|OI: 54110	| Exp: 2025-09-19	| Mark: $23.53
+Potential CSP trade for MS:		50SMA: 117.87		Resistance: 132.18		Support: 125.30
+		MS $125.0 PUT @ $0.67	| Delta: -0.25	| Volatility: 25.85	|OI: 580	| Exp: 2025-06-06	| Mark: $127.75
+Potential CSP trade for NKE:		50SMA: 59.99		Resistance: 63.11		Support: 59.98
+		NKE $55.0 PUT @ $1.12	| Delta: -0.22	| Volatility: 49.41	|OI: 369	| Exp: 2025-06-27	| Mark: $60.535
+		NKE $55.0 PUT @ $1.58	| Delta: -0.25	| Volatility: 44.46	|OI: 4003	| Exp: 2025-07-18	| Mark: $60.535
